@@ -1,41 +1,41 @@
  <center>
-     <h1>XXX</h1>
+     <h1>任赛龙</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             17550199056
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             862983319@qq.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/coderlongren">coderlong</a>
          </span>
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://blog.csdn.net/qq_33797928">My Blog</a>
          </span>
      </div>
  </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，1996 年出生
+ - 求职意向：后端研发研发工程师
+ - 工作经验：1 年
+ - 期望薪资：18-25k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 学士，湖北大学，软件工程专业，2015.9~2019.6
+- 绩点 年级前 30%
+- 一次ACM区域赛经历， 蓝桥杯算法比赛 国赛一等奖
+- 第五届天池中间件比赛
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -53,10 +53,8 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
+- ★★★★ Java
+- ★★★★ Dubbo
 - ★★★ Redis
 - ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★☆☆ Kafka、ZooKeeper
